@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">API Money Converter</string>
+    <string name="textview">TextView</string>
+    <string name="convert_from">Convert From</string>
+    <string name="convert_to">Convert To</string>
+    <string name="convert">Convert!</string>
+    <string name="amount">Amount</string>
+    <string name="conversion_rate">Conversion Rate</string>
+    <string name="total">Total</string>
+    <string name="exchange_rate">Exchange Rate</string>
+    <string-array name="country">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>HRK</item>
+        <item>HUF</item>
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>JPY</item>
+        <item>KRW</item>
+        <item>MXN</item>
+        <item>MYR</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>RON</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>TRY</item>
+        <item>ZAR</item>
+    </string-array>
+</resources>

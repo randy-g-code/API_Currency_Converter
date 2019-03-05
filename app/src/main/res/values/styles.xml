@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style parent="Theme.AppCompat.Light.DarkActionBar" name="AppTheme">
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+    <item name="android:windowBackground">@color/window_background</item>
+
+</style>
+
+</resources>
